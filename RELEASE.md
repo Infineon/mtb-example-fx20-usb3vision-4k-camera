@@ -1,0 +1,39 @@
+# EZ-USB FX20: USB3 Vision 4K Camera Application 1.0.0
+
+## What's Included?
+
+Refer to the [README.md](./README.md).
+
+## Feature Updates
+
+* Updated application to make use of USBFXStack version 1.3.3
+* Added FPGA files with support for firmware-based LVDS PHY training
+
+
+## Defect Fixes
+
+* Initial release
+
+## Supported Software and Tools
+
+This version of the application was validated for the compatibility with the following Software and Tools:
+
+| Software and Tools                                       | Version |
+| :---                                                     | :----:  |
+| ModusToolbox&trade; software environment                 | 3.5.0   |
+| CAT1A Peripheral Driver Library                          | 3.20.0  |
+| USBFXStack Middleware Library                            | 1.3.3   |
+| FreeRTOS&trade; for Infineon MCUs                        | 10.5.004|
+| GNU Arm&reg; Embedded Compiler                           | 14.2.1  |
+| Infineon U3V Lib                                         | 0.0.01  |
+
+## More information
+
+For more information, refer to the following documents:
+
+* [EZ-USB&trade; FX20 USB3 Vision 4K Camera application README.md](./README.md)
+* [ModusToolbox Software Environment, Quick Start Guide, Documentation, and Videos](https://www.infineon.com/cms/en/design-support/tools/sdk/modustoolbox-software)
+* [Infineon Technologies AG](https://www.infineon.com)
+
+---
+© 2026, Cypress Semiconductor Corporation (an Infineon company) or an affiliate of Cypress Semiconductor Corporation.
